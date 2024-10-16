@@ -1,6 +1,6 @@
 # Tarea-2da-clase-HTML
 
-**En esta tarea continuaré trabajando sobre el archivo de la tarea anterior, donde implementé un menú de navegación.
+**En esta tarea continué trabajando sobre el archivo de la tarea anterior Tarea-1ra-clase-HTML, donde implementé un menú de navegación.
 
 ## Descripción de la Tarea
 
