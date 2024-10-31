@@ -24,6 +24,8 @@ En esta segunda tarea, se trabajó sobre el archivo de la tarea anterior. El obj
 
 - [Documentación de HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Ejemplos de formularios](https://developer.mozilla.org/es/docs/Learn/Forms)
-- 
+
+  
 Puedes verlo en vivo aquí: [Tarea 2 - Clase HTML](https://tarea-2-clase-html.vercel.app/index.html)
+
 
